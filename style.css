@@ -72,10 +72,7 @@ nav a:hover {
     }
 
     .logo {
-        margin-right: auto;
-    }
-    .logo img {
-        width: 150px;
+        display: none;
     }
 
     nav a {
